@@ -22,5 +22,36 @@ namespace Pacman_Assignment02
         {
 
         }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+           
+        }
+
+        private void Form1_KeyUp(object sender, KeyEventArgs e)
+        {
+           
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox290_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox289_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox291_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
